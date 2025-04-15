@@ -129,11 +129,11 @@ main {
         font-size: 1rem;
         line-height: 30px;
     }
-    
+
 }
 
-@media  screen and (max-width:1156px) {
-    main{
+@media screen and (max-width:1156px) {
+    main {
         padding: 150px 50px 0px;
         gap: 30px;
     }
@@ -141,10 +141,10 @@ main {
     .div-txt h1 {
         width: 100%;
         height: auto;
-        font-size: 2rem;    
+        font-size: 2rem;
     }
 
-    .div-txt p{
+    .div-txt p {
         width: 100%;
         height: auto;
         font-size: 0.9rem;
@@ -160,70 +160,71 @@ main {
     .div-txt h1 {
         width: 100%;
         height: auto;
-        font-size: 1.5rem;    
+        font-size: 1.5rem;
     }
 
-    .div-txt p{
+    .div-txt p {
         width: 100%;
         height: auto;
         font-size: 0.8rem;
     }
 }
 
-@media screen and (max-width: 900px){
+@media screen and (max-width: 900px) {
     header {
         padding: 20px 20px 0px;
         gap: 20px;
     }
 
-    main{
+    main {
         padding: 100px 20px 0px;
         flex-direction: column-reverse;
         align-items: center;
         justify-content: center;
     }
 
-    .div-txt{
+    .div-txt {
         display: flex;
         flex-direction: column;
         text-align: center;
         align-items: center;
-        }
+    }
 
-        .div-txt h1{
-            width: 300px;
-            font-size: 2rem;
-        }
+    .div-txt h1 {
+        width: 300px;
+        font-size: 2rem;
+    }
 
-        .div-txt p{
-            width: 400px;
-            font-size: 0.9rem;
-        }
+    .div-txt p {
+        width: 400px;
+        font-size: 0.9rem;
+    }
 }
 
-@media screen and (max-width: 453px){
-    header{
+@media screen and (max-width: 453px) {
+    header {
         display: flex;
         justify-content: flex-end;
     }
 
-    header a{
+    header a {
         display: none;
         width: 100%;
     }
-    main{
+
+    main {
         padding: 10px;
     }
 
-    .div-txt p{
-        width: 100%; 
-    }
-
-    div-img{
+    .div-txt p {
         width: 100%;
     }
 
-    img{
+    div-img {
+        width: 100%;
+    }
+
+    img {
         width: 100%;
         height: auto;
     }
