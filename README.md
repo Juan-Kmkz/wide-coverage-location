@@ -16,10 +16,10 @@
 
 <ul>
   <li>
-    <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   </li>
   <li>
-    <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   </li>
 </ul>
 
@@ -41,7 +41,7 @@
   <em>Apresentação em smartphones.</em>
 </p>
 
-<h2>📬 Contato</h2>
+<h2>📬 Contato:</h2>
 <ul>
   <li>LinkedIn: <a href="https://www.linkedin.com/in/juan-danilo/">Juan Danilo</a></li>
   <li>E-mail: juandanilo777@gmail.com</li>
